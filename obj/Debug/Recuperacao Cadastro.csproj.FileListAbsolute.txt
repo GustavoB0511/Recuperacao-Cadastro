@@ -1,0 +1,59 @@
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\Recuperacao Cadastro.dll.config
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\Recuperacao Cadastro.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\Recuperacao Cadastro.pdb
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\csc.exe
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\csc.exe.config
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\csc.rsp
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\csi.exe
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\csi.exe.config
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\csi.rsp
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.AppContext.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Console.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.IO.Compression.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Net.Http.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.ValueTuple.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\vbc.exe
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\vbc.exe.config
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\vbc.rsp
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\VBCSCompiler.exe
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\obj\Debug\Recuperacao Cadastro.csproj.AssemblyReference.cache
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\obj\Debug\Recuperacao Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\obj\Debug\Recuperacao Cadastro.csproj.CopyComplete
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\obj\Debug\Recuperacao Cadastro.dll
+C:\Users\gustt\source\repos\Recuperacao Cadastro\Recuperacao Cadastro\obj\Debug\Recuperacao Cadastro.pdb
